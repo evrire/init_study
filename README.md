@@ -3,21 +3,16 @@
 <p>
 git init  <inicializar repo>
 </p>
-<p>
-COMMON
----
-git add . 			<añadir código modificado>
-git commit -m "comment" 	<añadir comentario al código>
-git push origin master 		<subir codigo de la rama>
----
-
-BRANCH
----
-git branch 		<visualizar ramas> "fijarse * verde"
-git branch name 	<añadir rama>
-git branch checkout 	<cambiar de rama> 
-git branch -d name	<eliminar rama>
-git branch -D name	<eliminar ramam forzada>
+<ul>
+<li>git add . (añadir código modificado)</li>
+<li>git commit -m "comment" (añadir comentario al código)</li>
+<li>git push origin master (subir codigo de la rama)</li>
+<li></li>
+<li>git branch  (visualizar ramas) "fijarse * verde"</li>
+<li>git branch name 	(añadir rama)</li>
+<li>git branch checkout 	(cambiar de rama)</li> 
+<li>git branch -d name	(eliminar rama)</li>
+<li>git branch -D name	(eliminar ramam forzada)</li>
 
 --> nos cambiamos a la rama con menos cambios
 git merge name(rama con el codigo a actualizar)
