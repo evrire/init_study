@@ -1,7 +1,9 @@
 # init_study
 <h1>STEPS</h1>
+<p>
 git init  <inicializar repo>
-
+</p>
+<p>
 COMMON
 ---
 git add . 			<añadir código modificado>
@@ -19,3 +21,4 @@ git branch -D name	<eliminar ramam forzada>
 
 --> nos cambiamos a la rama con menos cambios
 git merge name(rama con el codigo a actualizar)
+</p>
