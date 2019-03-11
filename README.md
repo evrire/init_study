@@ -13,7 +13,13 @@ git init  <inicializar repo>
 <li>git branch checkout 	(cambiar de rama)</li> 
 <li>git branch -d name	(eliminar rama)</li>
 <li>git branch -D name	(eliminar ramam forzada)</li>
+<li></li>
+<li></li>
+<li>git pull origin master (rama/ recoger codigo del repo) </li>
+<li>git clone url:repo</li>
 
+
+</ul>
 --> nos cambiamos a la rama con menos cambios
 git merge name(rama con el codigo a actualizar)
 </p>
